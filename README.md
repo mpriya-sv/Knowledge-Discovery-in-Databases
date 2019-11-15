@@ -1,11 +1,12 @@
 # Knowledge-Discovery-in-Databases
 Knowledge Discovery in Databases
-<h3><p align="center"> THE MEAN SQUARES </p></h3>
+<h3><p align="center"> Y-NOTS! </p></h3>
 
 ###### Team Members
 - Sushma Keddallu Suriyaprakash
 - Srinath Muralinathan
 - Muthu Priya Shanmugakani Velsamy
+- Nivedita Veeramanigandan
 - Balasundaram Avudai Nayagam
 - Arjun Manevannan
 
