@@ -33,13 +33,14 @@ The dataset related to life expectancy focuses on, the health factors of 193 cou
 	- Lasso Regression<br>
 	- Elastic Net regression<br>
 	
-since our data contains more of numerical data values. While validating our machine learning model by its learning and behavior with the new data, we are using 2 essential techniques:
-	- Overfitting of data<br>
-	- Underfitting of data<br>
+since our data contains more of numerical data values. While validating our machine learning model by its learning and behavior with the new data, we are using 2 essential techniques:<br>
+	
+- Overfitting of data<br>
+- Underfitting of data<br>
 	
 which are majorly responsible for evaluating the performances of the machine learning algorithms. Underfitting data can be avoided by using more data and also reducing the features by feature selection. We can also use Unification technique and dimensionality reduction techniques for feature selection. Overfitting data can be avoided through one of the common methodologies called cross-validation. Once we avoid both overfitting and underfitting of data, we will achieve the good fit on the data. A good fit data will have less error rate while training and testing the data.<br>
 The attributes are examined through their degree of correlation or multicollinearity with other attributes. The correlation among the attributes are visualized through the heatmap. While training and testing the model, the difference between the predicted and the observed values can be calculated through:<br>
-	- Root Mean Square Error (RMSE)<br>
+- Root Mean Square Error (RMSE)<br>
 	
 where RMSE provides the absolute measure of fit. This will be useful in predicting the accuracy and efficiency of the trained model.
 The data is evaluated using analytical and logical reasoning. Each attribute in the data are considered for the evaluation. The education column plays an important role in the population growth. The more knowledge an individual has, the more he or she can make informed life decisions, and improve his or her quality of life.
