@@ -31,6 +31,7 @@ The dataset related to life expectancy focuses on, the health factors of 193 cou
 	- Random Forest<br>
 	- Lasso Regression<br>
 	- Elastic Net regression<br>
+	
 since our data contains more of numerical data values. While validating our machine learning model by its learning and behavior with the new data, we are using 2 essential techniques:<br>
 	- Overfitting of data<br>
 	- Underfitting of data<br>
