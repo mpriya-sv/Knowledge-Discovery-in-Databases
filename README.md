@@ -1,7 +1,7 @@
 # Knowledge-Discovery-in-Databases
-#ITCS-6162 Knowledge Discovery in Databases
-#Y-NOTS!
-#Team Members
+# ITCS-6162 Knowledge Discovery in Databases
+# Y-NOTS!
+# Team Members
 -	Sushma Keddallu Suriyaprakash
 -	Srinath Muralinathan
 -	Muthu Priya Shanmugakani Velsamy
