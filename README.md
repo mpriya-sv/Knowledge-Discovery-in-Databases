@@ -27,8 +27,8 @@ The dataset related to life expectancy focuses on, the health factors of 193 cou
   - Data preparation for modelling is underway. We are still in the process of deciding the data transformation methods. 
 - <b>Machine Learning</b>
   The dataset will be split into two data 80:20 ratio where 80% of data are used for training the model and 20% of data are used for testing the model. The model will be trained through various regression techniques like:<br>
-	-	Linear Regression<br>
-	-	Random Forest<br>
+	-		Linear Regression<br>
+	-		Random Forest<br>
 	-	Lasso Regression<br>
 	-	Elastic Net regression<br>
 since our data contains more of numerical data values. While validating our machine learning model by its learning and behavior with the new data, we are using 2 essential techniques:<br>
