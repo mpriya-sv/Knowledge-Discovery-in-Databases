@@ -2,6 +2,7 @@
 # ITCS-6162 Knowledge Discovery in Databases
 <h3> Y-NOTS! </h3>
 <h3> Team Members </h3>
+
 -	Sushma Keddallu Suriyaprakash
 -	Srinath Muralinathan
 -	Muthu Priya Shanmugakani Velsamy
