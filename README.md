@@ -12,7 +12,7 @@ The dataset related to life expectancy focuses on, the health factors of 193 cou
 - <b>Business Knowledge</b>
   - The healthcare industry is one of the largest industries in the world, and it has a direct effect on the quality of life of people in each country. This project will focus on healthcare domain. The data source is acquired from World Health Organisation’s (WHO) Global Health Observatory (GHO) data repository and United Nations website. The dataset is related to the life-expectancy of humans, based on various dimensions such as, health, immunization, economical and social factors. 
 - <b>Data Understanding and EDA</b>
-  The dataset will be split into two data 80:20 ratio where 80% of data are used for training the model and 20% of data are used for testing the model. The model will be trained through various regression techniques like:<br>
+  - The dataset will be split into two data 80:20 ratio where 80% of data are used for training the model and 20% of data are used for testing the model. The model will be trained through various regression techniques like:<br>
   
 	- Linear Regression<br>
 	- Random Forest<br>
