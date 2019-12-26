@@ -1,13 +1,4 @@
 # ITCS-6162 Knowledge Discovery in Databases
-<h3> Y-NOTS! </h3>
-<h3> Team Members </h3>
-
--	Sushma Keddallu Suriyaprakash
--	Srinath Muralinathan
--	Muthu Priya Shanmugakani Velsamy
--	Nivedita Veeramanigandan
--	Balasundaram Avudai Nayagam
--	Arjun Manevannan
 
 ## Picturizing the Life-span by Analysis of Economy and Public Health data
 <h3>Project Introduction</h3>
